@@ -1,4 +1,4 @@
-# Dự án Quản lý Bò trên Blockchain (CowChain)
+# Dự án Quản lý Bò trên Blockchain 
 
 Dự án sử dụng React.js, Ethers.js và Hardhat.
 
