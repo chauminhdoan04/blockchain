@@ -1,0 +1,6 @@
+{
+  "name": "CowChain - Quản lý Bò trên Blockchain",
+  "description": "Hệ thống quản lý hành vi của bò (Đứng, Ăn, Nằm) sử dụng Smart Contract và Blockchain để đảm bảo tính minh bạch và bất biến của dữ liệu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
