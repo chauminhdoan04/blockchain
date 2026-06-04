@@ -1,4 +1,5 @@
-# 🐄 HỆ THỐNG QUẢN LÝ VẬT NUÔI SỬ DỤNG BLOCKCHAIN
+# HỆ THỐNG QUẢN LÝ VẬT NUÔI SỬ DỤNG BLOCKCHAIN
+>>>>>>> d2a6ac3 (Update professional README)
 
 > Đồ án ứng dụng công nghệ Blockchain trong quản lý thông tin vật nuôi, giúp lưu trữ dữ liệu minh bạch, an toàn và hỗ trợ truy xuất nguồn gốc trong lĩnh vực chăn nuôi.
 
